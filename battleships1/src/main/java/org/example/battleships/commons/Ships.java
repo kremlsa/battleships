@@ -46,7 +46,7 @@ public enum Ships {
     /**
      * Метод для возврата наименования корабля
      *
-     * @return имя корабля. int
+     * @return имя корабля. String
      */
     public String getName() {
         return shipName;
